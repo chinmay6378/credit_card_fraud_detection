@@ -24,8 +24,8 @@ Dataset link: [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets
 - Matplotlib, Seaborn
 
 ## 📈 Results
-- Logistic Regression Accuracy: XX%
-- Decision Tree Accuracy: XX%
+- Logistic Regression Accuracy: 99.2%
+- Decision Tree Accuracy: 99.7%
 
 ## 📬 How to Run
 1. Clone the repo:
